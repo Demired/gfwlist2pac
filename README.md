@@ -1,2 +1,2 @@
 # gfwlist2pac
-本人用于shadowsocks的pac
+自用shadowsocks的pac规则
